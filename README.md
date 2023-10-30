@@ -1,5 +1,6 @@
 # airflow
 https://jkorpela.fi/chars/c0.html
+https://www.youtube.com/watch?v=K9AnJ9_ZAXE airflow tutroial
 python -m venv py_env
 source py_env/bin/activate
 pip install 'apache-airflow==2.7.1' \
